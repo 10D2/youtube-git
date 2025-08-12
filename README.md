@@ -6,3 +6,4 @@ git checkout -- .
 git log
 git commit --amend
 git checkout -b rama-heroes
+git checkout master
