@@ -1,7 +1,9 @@
+# git commands
+
 git init
 git add .
 git reset .
-git commit 
+git commit
 git checkout -- .
 git log
 git commit --amend
