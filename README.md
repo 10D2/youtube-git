@@ -17,7 +17,7 @@
 
 # CORREO PERSONAL:
 
-A. correo: david.suarez.dropbox@pcoriente.com.mx
+-correo: david.suarez.dropbox@pcoriente.com.mx
 B. password: 5u4rez65$
 
 # ACCESO A DROPBOX:
