@@ -22,5 +22,5 @@ B. password: 5u4rez65$
 
 # ACCESO A DROPBOX:
 
-C. acceso a Dropbox: dropbox.com
-D. password: 4u4rez65$
+c. acceso a Dropbox: dropbox.com
+d. password: 4u4rez65$
