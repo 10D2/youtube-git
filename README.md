@@ -23,4 +23,5 @@
 # Acceso a Dropbox.
 
 3. Acceso a Dropbox: dropbox.com
-4. Password: 5u4rez65$
+4. Correo: david.suarez.dropbox@pcoriente.com.mx
+5. Password: 5u4rez65$
