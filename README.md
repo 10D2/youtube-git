@@ -12,3 +12,15 @@
 10. git merge rama-heroes
 11. git push
 12. git commit -am
+
+# Información Despacho David Suárez
+
+# CORREO PERSONAL:
+
+A. correo: david.suarez.dropbox@pcoriente.com.mx
+B. password: 5u4rez65$
+
+# ACCESO A DROPBOX:
+
+C. acceso a Dropbox: dropbox.com
+D. password: 4u4rez65$
