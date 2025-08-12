@@ -3,3 +3,6 @@ git add .
 git reset .
 git commit 
 git checkout -- .
+git log
+git commit --amend
+git checkout -b rama-heroes
