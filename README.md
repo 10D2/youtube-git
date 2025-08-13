@@ -13,15 +13,15 @@
 11. git push
 12. git commit -am
 
-# Información Despacho de DRSP
+## Información Despacho de DRSP
 
-# Correo de configuración:
+## Correo de configuración
 
-1. Correo: david.suarez.dropbox@pcoriente.com.mx
+1. Correo: <david.suarez.dropbox@pcoriente.com.mx>
 2. Password: 5u4rez65$
 
-# Acceso a Dropbox.
+## Acceso a Dropbox
 
-3. Acceso a Dropbox: dropbox.com
-4. Correo: david.suarez.dropbox@pcoriente.com.mx
-5. Password: 5u4rez65$
+1. Acceso a Dropbox: dropbox.com
+2. Correo: <david.suarez.dropbox@pcoriente.com.mx>
+3. Password: 5u4rez65$
